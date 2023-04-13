@@ -1,2 +1,3 @@
 AI and ML sessions
 Data science
+python sessions
